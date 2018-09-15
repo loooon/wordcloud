@@ -13,6 +13,7 @@ pip install wordcloud
 
 ```
 
+```
 参数
 类型
 描述
@@ -83,3 +84,4 @@ to_array()
 to_file(filename) 
 to_html() 
 to_image() 
+```

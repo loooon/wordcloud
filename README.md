@@ -13,9 +13,11 @@ pip install wordcloud
 
 ```
 
+![资料]:https://github.com/loooon/wordcloud/blob/master/dataset/2018-09-16.pdf
+
 
 a[1]:https:ww
-https://github.com/loooon/wordcloud/blob/master/dataset/2018-09-16.pdf
+
 
 ```
 

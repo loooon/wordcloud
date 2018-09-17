@@ -6,3 +6,4 @@ fifth
 six
 fix bug100
 seven local
+chenll test rebase

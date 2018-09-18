@@ -6,5 +6,8 @@ fifth
 six
 fix bug100
 seven local
+<<<<<<< HEAD
 chenll test rebase
+=======
 dev rebase
+>>>>>>> dev rebase
